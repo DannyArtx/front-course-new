@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 151, 151);
+}
+h1{
+    color: bisque;
+    background-color: rgb(41, 189, 147);
+}
+P{
+    color: azure;
+}
+li{
+    color: aliceblue;
+    background-color: black;
+}
